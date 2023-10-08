@@ -1,1 +1,14 @@
+Package: MyPackage
+Type: Package
+Title: SpideR GuideR
+Version: 1.0.0
+Author: L.Turnbull
+Maintainer: L.Turnbull <messagelyn@gmail.com>
+Overkill package just to perform a basic fetch of WSC API data.  Written 8th Oct 2023.  By the time you read this it will probably be depraciated and useless.
+License: Claims to be open source and an educational resource but always pays to check
+Imports:
+    dplyr (>= 1.0.0)
+    ggplot2 (>= 3.3.0)
+Suggests:
+    testthat (>= 3.0.0)
 
